@@ -8,7 +8,7 @@ import './App.css'
 
 
 //en esta constante almacenamos nuestra key de la API
-const API_KEY = 'iVR9fjWOS8kAalSYPLpHKdINjr15Y3tQ';
+const API_KEY = VITE_GIPHY_API_KEY;
 
 
 const App = () =>{
